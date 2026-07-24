@@ -1,0 +1,6 @@
+{
+  "name": "PermataTel Customer Care Hub",
+  "description": "Portal Resmi Layanan Pelanggan PermataTel, Verifikasi Nomor Anti-Penipuan, Pengaduan Nasabah, dan Asisten AI Terintegrasi Google Search Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
